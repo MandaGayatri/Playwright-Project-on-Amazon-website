@@ -12,6 +12,7 @@ export default defineConfig({
   use: {
     viewport: null,
     baseURL: 'https://www.amazon.com',
+    headless: false,
     launchOptions: {
       args: ['--start-maximized'],
     },
