@@ -1,2 +1,2 @@
 # Playwright-Project-on-Amazon-website
-This is and end to end project on Amazon website using playwright with Typescript Language.
+ This project is based on Amazon End to end project uing playwright with typescript.
