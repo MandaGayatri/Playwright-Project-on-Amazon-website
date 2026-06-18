@@ -54,3 +54,5 @@ await lp.loginToAmazonPassword('your-password');
 After the test runs, you'll find:
 - An **HTML report** in the `reports/` folder
 - **Screenshots** captured at each step inside `reports/`
+
+![Test Screenshot](reports/report.png)
